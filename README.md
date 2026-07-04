@@ -43,9 +43,9 @@ Cztery pliki JSON. Wklejasz i wczytujesz każdy moduł po kolei:
  
 **⌬**
  
- **▾**
+  **▾**
 
-**⏣** **M3 · SAVE** – zapis. Kiedy skończysz sesję, nie zaczynasz od zera.
+ **⏣** **M3 · SAVE** – zapis. Kiedy skończysz sesję, nie zaczynasz od zera.
 
 
 
