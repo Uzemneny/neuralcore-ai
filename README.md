@@ -39,7 +39,7 @@ Cztery pliki JSON. Wklejasz i wczytujesz każdy moduł po kolei:
 
 **⎔** **M2 · FORCES** – działa w tle, skupia się na twojej orbicie.
 
- ▾**
+ ▾
  
 **⌬**
  
