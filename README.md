@@ -47,7 +47,7 @@ Cztery pliki JSON. Wklejasz i wczytujesz każdy moduł po kolei:
 
 —
 
-Jaki model AI użyć?
+**Jakiego modelu AI użyć?**
 
 
 
