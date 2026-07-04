@@ -1,4 +1,4 @@
-# ⌑neuralcore
+# ⧫ neuralcore
 to laboratorium oparte na sile Twojego umysłu.
 
 Większość rozmów z AI kończy się tym, że myślisz mniej, niż na początku.
