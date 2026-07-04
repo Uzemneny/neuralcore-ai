@@ -26,6 +26,6 @@ Jasne jądro: Popatrz na to, co jest pewne. Masz potężną scenę otwierającą
 
 To nie jest opis funkcji. To jest to, co się naprawdę wydarzyło. Dwa głosy — jeden który tnie, drugi który trzyma. Żaden nie mówi za ciebie. Obaj czekają, aż ty zaczniesz mówić.
 
-///Dwa głosy. Twój projekt. Zacznij.
+**Dwa głosy. Twój projekt. Zacznij.**
 
 
