@@ -3,6 +3,7 @@ to laboratorium oparte na sile Twojego umysłu.
 
 Większość rozmów z AI kończy się tym, że myślisz mniej, niż na początku.
 AI odpowiada na to, co napisałeś — nie na to, czego jeszcze nie umiałeś napisać.
+
 Wiesz co powoduje, że sztuczna inteligencja nie pozwala ci myśleć? Gotowość.
 AI jest zawsze gotowe odpowiedzieć — szybciej niż ty zdążysz pomyśleć, pewniej niż ty czujesz się pewny, głośniej niż twój własny głos w tej chwili.
 I po jakimś czasie ten głos milknie.
