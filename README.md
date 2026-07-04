@@ -43,7 +43,7 @@ Cztery pliki JSON. Wklejasz i wczytujesz każdy moduł po kolei:
 
 **⏣ M3 · SAVE** – zapis. Kiedy skończysz sesję, nie zaczynasz od zera.
 
-
+Bezpiecznik pilnuje tego, co dla wielu jest obojętnością. Ja jestem zdania, że w tych czasach, to jest po prostu higiena.
 
 
 
