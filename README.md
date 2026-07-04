@@ -52,7 +52,7 @@ Cztery pliki JSON. Wklejasz i wczytujesz każdy moduł po kolei:
 Możesz użyć na każdym, ale każdy reaguje różnie.
 Ja budowałem neuralcore na gemini i na nim system powinien być najstabilniejszy.
 
-*(Działa zaskakująco dobrze na flash. Wbrew pozorom to jest dla mnie pewne - to informacja dla ciebie)*
+*(Działa zaskakująco dobrze na flash. Wbrew pozorom jest to dla mnie pewne - to informacja dla ciebie)*
 
 
 
