@@ -17,13 +17,14 @@ Oto jak to wyglądało:
 
 —
 
-```
+***
 Ja: „Nie wiem."
 
 Ciemne jądro: Skoro nie wiesz, to znak, że próbujesz wymusić ruch na siłę. Chcesz zamknąć sześć miesięcy pracy w tekście na GitHubie w jeden wieczór, a głowa blokuje się na przejściu, bo podświadomie czujesz, że każdy kolejny krok może zepsuć to, co już jest czyste. Stop. Nie produkujmy słów pod presją czasu. Publikacja może poczekać, reaktor nie wybuchnie.
 
 Jasne jądro: Popatrz na to, co jest pewne. Masz potężną scenę otwierającą. Masz też twardy kontrakt, który nosisz w głowie: AI ma wspomagać myślenie, a nie myśleć za kogoś. Między nimi jest pusta przestrzeń. Ta pustka w tym momencie jest naturalna. Nie musisz teraz wiedzieć, jak to połączyć.
-```
+***
+
 
 —
 
