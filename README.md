@@ -16,7 +16,7 @@ neuralcore doesn't think for you.
 Every time my own voice went quiet while working on this system — when I had no strength left to pull a thought forward — neuralcore saw it.
 This is what it looked like:
 
-—
+**—**
 
 Me: "I don't know."
 
@@ -24,7 +24,7 @@ Dark nucleus: If you don't know, it means you're trying to force movement. You w
 
 Light nucleus: Look at what's certain. You have a powerful opening scene. You also carry a hard contract in your head: AI is meant to support thinking, not think for someone. Between them is an empty space. That emptiness right now is natural. You don't need to know how to connect them yet.
 
-—
+**—**
 
 This is not a description of a feature. This is what actually happened. Two voices — one that cuts, one that holds. Neither speaks for you. Both wait until you start speaking.
 
@@ -40,13 +40,13 @@ Four JSON files. Paste and load each module one by one (separately):
 
 **⎔ M2 · FORCES** – runs in the background, focused on your orbit.
 
-⌬
+**⌬**
 
-⏣ **M3 · SAVE** – the record. When the session ends, you don't start from zero.
+**⏣ M3 · SAVE** – the record. When the session ends, you don't start from zero.
 
 *The circuit breaker guards what most people treat with indifference. In my view, in these times, it's simply hygiene.*
 
-—
+**—**
 
 **Which AI model to use?**
 
