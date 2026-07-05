@@ -42,7 +42,7 @@ Four JSON files. Paste and load each module one by one (separately):
 
 ⌬
 
-⏣ M3 **· SAVE** – the record. When the session ends, you don't start from zero.
+⏣ **M3 · SAVE** – the record. When the session ends, you don't start from zero.
 
 *The circuit breaker guards what most people treat with indifference. In my view, in these times, it's simply hygiene.*
 
